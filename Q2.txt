@@ -1,6 +1,0 @@
-a) There are a total of 2 hidden layers. The reason this amount is used is because after doing some experimenting with a different number of hidden layers, we found it to be the best outcome overall. 
-
-b) There are 12 nodes in the hidden layer which is decided by the algotitm. 
-
-c) The hidden layers use the relu activation function. I used relu becuase of its simplicity, efficiency and ability to mitigate the vanishing gradient problem. The sigmoid activation was used for the output layer, and this is because the output data involves using binary classification (the output is 0 or 1). 
-
