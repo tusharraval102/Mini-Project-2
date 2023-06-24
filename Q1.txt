@@ -1,0 +1,3 @@
+a) There are a total of 1 hidden layers used. 
+
+b) There are a total of two weights, which are both equal to 1. The bias is -1. 
